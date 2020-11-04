@@ -1,0 +1,2 @@
+# menor
+código de estudo
